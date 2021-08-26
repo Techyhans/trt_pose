@@ -29,7 +29,7 @@ sudo python3 setup.py install
 ### Step 3 - Forklift
 
 variable : 
-1. model file name : download from [this link](https://drive.google.com/file/d/1d9ySGgs6HD8boFEN3bVXCKwkex4J3jKI/view?usp=sharing), and put it in this folder
+1. model file name : download from [this link](https://drive.google.com/file/d/1d9ySGgs6HD8boFEN3bVXCKwkex4J3jKI/view?usp=sharing), and put it in the `tasks/fork_lift` folder
 2. topology file name - default: forklift.json
 3. camera : "csi" or 0 for csi camera or usb camera
 ```
