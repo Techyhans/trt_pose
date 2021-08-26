@@ -21,7 +21,7 @@
 ### Step 2 - Install trt_pose
 
 ```python
-git clone https://github.com/NVIDIA-AI-IOT/trt_pose
+git clone https://github.com/Techyhans/trt_pose.git
 cd trt_pose
 sudo python3 setup.py install
 ```
