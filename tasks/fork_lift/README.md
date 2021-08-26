@@ -1,4 +1,4 @@
-# Dependency
+### Step 1. Install dependency
 1. Install OpenCV. Refer [this link](https://automaticaddison.com/how-to-install-opencv-4-5-on-nvidia-jetson-nano/) to install opencv in jetson nano 
    
 2. Install PyTorch and Torchvision.  To do this on NVIDIA Jetson, we recommend following [this guide](https://forums.developer.nvidia.com/t/72048)
